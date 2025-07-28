@@ -1,0 +1,23 @@
+Tabela nutricional (por unidade de ~30g)
+Valores aproximados:
+Nutriente	Quantidade por porção (30g)
+Calorias	95 kcal
+Carboidratos	10 g
+Proteínas	2,5 g
+Gorduras totais	5,5 g
+- Gorduras saturadas	1,5 g
+Colesterol	18 mg
+Sódio	130 mg
+Fibras	0,2 g
+Açúcares	0,3 g
+
+Total para a receita inteira (20 unidades):
+Nutriente	Total da receita (~600g)
+Calorias	1.900 kcal
+Carboidratos	200 g
+Proteínas	50 g
+Gorduras totais	110 g
+- Gorduras saturadas	30 g
+Colesterol	360 mg
+Sódio	2.600 mg
+Fibras	4 g
